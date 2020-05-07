@@ -67,10 +67,4 @@ Inside the directory foloowing commands should be typed to create a yml file.
 
 ```vim docker-compose.yml```
 
-Inside the vim editor Following Commands must be typed as it is.***WARNING :Spacing should be done using Spacebar and not TAB to avoid errors .*** 
-![alt text](http://url/to/img.png)
-
-
-
-
-  
+Inside the vim editor Following Commands must be typed as it is.***WARNING :Spacing should be done carefully using Spacebar and not TAB to avoid any errors .***
